@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img src="dark_mode.svg" width="100%" alt="Aditya Kulkarni: web tools and competitive programming. Project links and bio follow below.">
-</picture>
+<img src="dark_mode.svg" width="100%" alt="Aditya Kulkarni: web tools and competitive programming. Project links and bio follow below.">
 
 # Hi, I'm Aditya 👋
 
