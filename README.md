@@ -11,3 +11,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/adityaaakulkarni/) and [X](htt
 ## License
 
 Licensed under either of [MIT](LICENSE-MIT) or [Apache License 2.0](LICENSE-APACHE) at your option.
+
+<p align="center"><img src="skyline.svg" width="100%" alt="My last year of GitHub contributions as an animated night city, one tower per week"></p>
